@@ -1,4 +1,3 @@
-# HW3-Apportionment-Refactored
 3/18/2023 10:09 p.m.
 
 ## Authors
